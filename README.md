@@ -1,2 +1,2 @@
-# matgs-practicals
+# maths-practicals
 Maths practicals 
